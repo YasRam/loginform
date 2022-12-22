@@ -1,0 +1,48 @@
+*{
+    font-family: 'Mulish';
+}
+body{
+    background-image: url(../src/img/image\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+.outdiv{
+    height: 100vh;
+}
+.innerdiv{
+    background-color: #F5F7FFD9;
+}
+.homebtn{
+    background: linear-gradient(113.87deg, #2663DF 14.81%, #758FF0 88.76%);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+}
+.input-group-text{
+/* background-color: #fff; */
+}
+h1{
+    font-family: 'Abdoullah Ashgar EL-kharef';
+}
+a{
+    color: black;
+    cursor:pointer ;
+}
+
+.bgStand{
+    /* padding-left: 50px; */
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
+.bgUser{
+    background-image: url(../src/img/user.png);
+}
+.bgMail{
+    background-image: url(../src/img/mail.png);
+}
+.bgPassword{
+    background-image: url(../src/img/password.png);
+}
